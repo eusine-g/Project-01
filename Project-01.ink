@@ -1,32 +1,3 @@
-/*
-This is a comment block. It won't be read as an Ink story.
-Comments are very useful for leaving ideas for story and functionalty
-
-This exercise will demonstrate the following in the example video:
- * Variable types: integer, float, boolean
- * Variable assignment
- * Printing variables
- * Variable checking
- 
- In the assignment:
- - Add four more knots
- - Assign at least TWO new variables through player choices
- - Print at least one of the variables to the player in a passage
- - Check the value of a variable and have it do something
- 
- 
- Variable Checking!
- 
- Equality: "Spot"  == "Spot"
- Not equality: 1 != 2
- Greater: >
- Less: <
- Greater ot equal: >=
- Less or equal: <=
- 
- 
- 
-*/
 
 VAR health = 3
 VAR name = ""
